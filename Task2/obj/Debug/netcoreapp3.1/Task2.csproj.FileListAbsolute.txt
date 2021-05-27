@@ -1,0 +1,13 @@
+D:\VLAD\MyProjects C#\Abstarct_HW\Abstract_HW\Task2\bin\Debug\netcoreapp3.1\Task2.exe
+D:\VLAD\MyProjects C#\Abstarct_HW\Abstract_HW\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+D:\VLAD\MyProjects C#\Abstarct_HW\Abstract_HW\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+D:\VLAD\MyProjects C#\Abstarct_HW\Abstract_HW\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+D:\VLAD\MyProjects C#\Abstarct_HW\Abstract_HW\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+D:\VLAD\MyProjects C#\Abstarct_HW\Abstract_HW\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+D:\VLAD\MyProjects C#\Abstarct_HW\Abstract_HW\Task2\obj\Debug\netcoreapp3.1\Task2.csprojAssemblyReference.cache
+D:\VLAD\MyProjects C#\Abstarct_HW\Abstract_HW\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+D:\VLAD\MyProjects C#\Abstarct_HW\Abstract_HW\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+D:\VLAD\MyProjects C#\Abstarct_HW\Abstract_HW\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.CoreCompileInputs.cache
+D:\VLAD\MyProjects C#\Abstarct_HW\Abstract_HW\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+D:\VLAD\MyProjects C#\Abstarct_HW\Abstract_HW\Task2\obj\Debug\netcoreapp3.1\Task2.pdb
+D:\VLAD\MyProjects C#\Abstarct_HW\Abstract_HW\Task2\obj\Debug\netcoreapp3.1\Task2.genruntimeconfig.cache
